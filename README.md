@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @human005
 - 👀 I’m interested in Ethical Hacking 
-- 🌱 I’m currently learning with EC-Council
+- 🌱 I’m currently learning with Pluralsight
 - 📫 How to reach me??
 
 <!---
